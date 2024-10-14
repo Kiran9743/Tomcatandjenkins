@@ -1,0 +1,3 @@
+sudo systemctl status tomcat
+
+sudo systemctl status jenkins
