@@ -32,9 +32,17 @@
         <artifactId>maven-war-plugin</artifactId>
         <version>3.3.1</version>
       </plugin>
+<<<<<<< HEAD
     </plugins>
 
     <!-- The output .war file's name, which will be the name of the webapp. -->
     <finalName>${project.artifactId}</finalName>
   </build>
 </project>
+=======
+	    <!-- The output .war file's name, which will be the name of the webapp. -->
+    <finalName>${project.artifactId}</finalName>
+  </build>
+</project>
+                                                                                                                                                                                          40,10         Bot
+>>>>>>> 7a289c58ddc7949d650fc3e7a9787e3721ed6f20
